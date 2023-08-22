@@ -13,7 +13,7 @@ module Schiphol
   # Require fileutils to move files around.
   require 'fileutils'
   # Require rubyzip to unzip packages.
-  require 'zip/zip'
+  require 'zip'
   # Require progressbar to track progress.
   require 'progressbar'
   
